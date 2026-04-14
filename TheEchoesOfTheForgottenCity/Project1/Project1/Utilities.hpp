@@ -40,7 +40,7 @@ void DrawGlowingBox(int x, int y, int w, int h) {
 		DrawRoundedRect(x - i, y - i, w + (2 * i), h + (2 * i), 15);
 	}
 	// Inner Body
-	SetColor(20, 20, 40, 200); // Semi-transparent dark background
+	SetColor(20, 20, 40, 200); // Semi transparent dark background
 	DrawRoundedRect(x, y, w, h, 10);
 	// Border Highlight
 	SetColor(150, 220, 255, 200);
