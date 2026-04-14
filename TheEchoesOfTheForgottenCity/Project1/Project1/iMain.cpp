@@ -18,7 +18,7 @@
 #include "Leaderboard.hpp"
 #include "GameLoop.hpp"
 #include <time.h>
-
+//graphics
 void iDraw() {
 	iClear();
 
