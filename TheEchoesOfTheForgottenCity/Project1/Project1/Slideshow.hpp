@@ -51,7 +51,7 @@ void LoadSlideshow() { // Initializes the intro story slideshow — loads 6 narr
 	strcpy_s(slideshow.slides[5].title, "The Gate of Return");
 	strcpy_s(slideshow.slides[5].text, "At the edge of the ruins stands the final gate. By surviving the chase, solving the last puzzles, and popping the final binding bubbles, I unlock my escape leaving the forgotten city behind and returning to the normal world.");
 
-	// Load Images
+	// Load All Images
 	for (int i = 0; i<6; i++) {
 		// Note: Ensure these images exist in the asset/slideshow folder
 		slideshow.slides[i].textureID = iLoadImage(slideshow.slides[i].imagePath);
