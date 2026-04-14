@@ -70,7 +70,7 @@ Open the project in Visual Studio 2013
 ## Screenshots
 
 ### **Menu**
-<img src="https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd" width="200" height="200">
+<img src="TheEchoesOfTheForgottenCity/Project1/Project1/asset/background/menu.b.png" width="200" height="200">
 
 ### **Character**
 <img src="TheEchoesOfTheForgottenCity/Project1/Project1/asset/idle/i.1.png" width="200" height="200">
