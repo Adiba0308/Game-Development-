@@ -4,7 +4,7 @@
 #include "GameVariables.hpp"
 #include "Utilities.hpp"
 #include "Audio.hpp"
-#include "Level1.hpp" // For LoadLevel1, UpdateBubbles, UpdateFirePillar, iScreenShak
+#include "Level1.hpp" // For LoadLevel1, UpdateBubbles, UpdateFirePillar, iScreenShake
 #include "Slideshow.hpp" // For UpdateSlideshow, SkipSlide
 #include "Puzzles.hpp" // For UpdatePuzzle, UpdateFlowPuzzle, InitPuzzle, InitFlowPuzzle
 #include "SaveLoad.hpp"
