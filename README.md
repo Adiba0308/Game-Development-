@@ -51,12 +51,23 @@ Open the project in Visual Studio 2013
 
 ### **Game Rules**
 
-- Each player starts with 100 health points.
-- Attacks reduce the opponent’s health based on the attack type:
-- Punch: -10 HP
-- Kick: -15 HP
-- Blocking can reduce damage by 50%.
-- The first player to reduce the opponent’s health to 0 wins the round.
+The player must avoid all traps (fire, beams, blades, etc.) or health will decrease.
+
+
+The player must pop special bubbles to unlock and trigger puzzles.
+
+
+Puzzles must be solved correctly to open gates and progress.
+
+
+If the timer runs out, the game ends immediately.
+
+
+In Level 3, the player must collect the sword before facing the wolves.
+
+
+The player can defeat wolves using the sword or escape them to survive.
+
 
 
 ## Project Contributors
