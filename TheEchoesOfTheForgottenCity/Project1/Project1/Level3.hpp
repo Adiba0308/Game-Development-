@@ -8,7 +8,7 @@
 extern void ILOADIMAGE(char*);
 
 void LoadLevel3() {
-	// Backgrounds (Location 1: b1.1, b1.2)
+	// Backgrounds (Location 1- b1.1, b1.2)
 	level3.bgImgs[0] = iLoadImage("asset/background/level.3/b1.1.png");
 	level3.bgImgs[1] = iLoadImage("asset/background/level.3/b1.2.png");
 
