@@ -84,7 +84,7 @@ void PlayWolfHowlSound() {
 }
 
 void StopRunSound() {
-	// Use pause instead of stop/seek to minimize gap when resuming
+	// Use pause instead of stop or seek to minimize gap when resuming
 	mciSendString("pause rsfx", NULL, 0, NULL);
 }
 
