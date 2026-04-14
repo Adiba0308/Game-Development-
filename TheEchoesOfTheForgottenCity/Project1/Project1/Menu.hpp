@@ -12,7 +12,7 @@ void InitializeButtons() { // Creates and positions all 7 main menu buttons (Sta
 	int startY = 450;
 	int gap = 60; // Slightly reduced gap to fit more buttons
 	
-	numButtons = 7; // Explicitly set to 7
+	numButtons = 7; // Explicitly set to 7.
 
 	for (int i = 0; i < numButtons; i++) {
 		strcpy_s(menuButtons[i].text, labels[i]);
