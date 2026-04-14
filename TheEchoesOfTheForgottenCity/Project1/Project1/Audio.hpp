@@ -3,7 +3,7 @@
 
 #include "GameVariables.hpp"
 
-// --- Audio Controller ---
+// --- Audio Controller For Background---
 void StopRunSound();
 
 void StopMusic() {
