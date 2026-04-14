@@ -4,7 +4,7 @@
 #include "GameVariables.hpp"
 #include "Utilities.hpp"
 
-// Forward declarations
+// Forward declaration
 void CheckFlowConnectivity();
 void InitPuzzle();
 void InitFlowPuzzle();
