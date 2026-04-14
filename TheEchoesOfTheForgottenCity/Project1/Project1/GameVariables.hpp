@@ -8,7 +8,7 @@
 #include <mmsystem.h>
 #pragma comment(lib, "winmm.lib")
 
-// Screen Constants
+// Screen Height and Width
 #define SCREEN_WIDTH 1280
 #define SCREEN_HEIGHT 720
 
