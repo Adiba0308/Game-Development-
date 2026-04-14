@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// ===================== DATA =================
+// ===================== DATA ====================
 
 #define MAX_LEADERBOARD_ENTRIES 100
 #define MAX_NAME_LENGTH 20
