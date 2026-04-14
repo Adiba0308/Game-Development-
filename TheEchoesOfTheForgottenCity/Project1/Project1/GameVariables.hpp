@@ -26,7 +26,7 @@ enum GameState {
 	STATE_LEVEL_COMPLETED,
 	STATE_PUZZLE_SCALE, // Scale puzzle for Level 2
 	STATE_PUZZLE_STATUE_ROTATION, // Statue Rotation puzzle for Level 2 Location 2
-	STATE_PUZZLE_EYE_ALIGNMENT, // Eye Alignment puzzle for Level 3 Location 1
+	STATE_PUZZLE_EYE_ALIGNMENT, // Eye Alignment puzzle for Level 3 ; Location 1
 	STATE_PUZZLE_MOON_SEAL, // Moon Seal puzzle for Level 3 Location 2
 	STATE_CONTINUE, // New State
 	STATE_SETTINGS, // New State
