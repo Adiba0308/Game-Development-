@@ -88,7 +88,7 @@ void DrawLevelCompleted() {
 	SetColor(0, 255, 200, 255);
 	iText(SCREEN_WIDTH / 2 - 80, SCREEN_HEIGHT / 2 - 55, bonusStr, GLUT_BITMAP_TIMES_ROMAN_24);
 
-	// Display Final Score
+	// Display Final Score_
 	char finalScoreStr[50];
 	sprintf_s(finalScoreStr, "FINAL SCORE: %ld", currentScore);
 	SetColor(255, 215, 0, 255);
