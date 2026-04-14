@@ -12,7 +12,7 @@ void DrawGameOver() {
 	SetColor(0, 0, 0, 255);
 	iFilledRectangle(0, 0, SCREEN_WIDTH, SCREEN_HEIGHT);
 	
-	// Blood Vignette
+	//- Blood Vignette-
 	float pulse = (sin(globalTime * 2) + 1) / 2.0f;
 	for (int i = 0; i < 20; i++) {
 		SetColor(150, 0, 0, (int)(10 + pulse * 20));
