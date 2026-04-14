@@ -51,22 +51,22 @@ Open the project in Visual Studio 2013
 
 ### **Game Rules**
 
-The player must avoid all traps (fire, beams, blades, etc.) or health will decrease.
+-The player must avoid all traps (fire, beams, blades, etc.) or health will decrease.
 
 
-The player must pop special bubbles to unlock and trigger puzzles.
+-The player must pop special bubbles to unlock and trigger puzzles.
 
 
-Puzzles must be solved correctly to open gates and progress.
+-Puzzles must be solved correctly to open gates and progress.
 
 
-If the timer runs out, the game ends immediately.
+-If the timer runs out, the game ends immediately.
 
 
-In Level 3, the player must collect the sword before facing the wolves.
+-In Level 3, the player must collect the sword before facing the wolves.
 
 
-The player can defeat wolves using the sword or escape them to survive.
+-The player can defeat wolves using the sword or escape them to survive.
 
 
 
