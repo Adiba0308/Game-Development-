@@ -74,7 +74,7 @@ void ApplyTimeBonus() {
 
 // --- Level 1 Structures & Globals ---
 
-// --- Level 1 Structures & Globals ---
+
 
 struct AnimSequence {
 	unsigned int textures[20];
